@@ -1,19 +1,15 @@
-# Professional README Generator 
-
+# Professional Work Team Generator
+***disclaimer, I cloned my previous project to help get me started on this one
 
 ## Description:
 
-- Why build a Readme Generator?
+- Why build a team Generator?
 
-    Creating readme files can be time consuming and a bit tidious. This application is a remedy to that exact problem. By answering a set of questions in the terminal you are given a beautiful and professional readme to insert into your project!
-
-- What was the problem solved?
-
-    The problem that I solved was creating the back end environment for the site. Using an express.js API and sequelize I was able to interact with a MySQL database and make the application functional.
+    This wold be apealling to anyone working and managing people. It is swift, simple, and makes life a lot easier! Also you can create as many profiles as you like so it is great for large or medium sized corporations.
 
 - What did I learn?
 
-    I gained a better understanding of Express.js and also using a database.
+    I gained a better understanding of object oriented programming but it was kind of tricky. I had trouble using jest.
 
 ## Table of Contents
 
@@ -31,6 +27,8 @@ Here are several links to help you get started:
 
 
 - [Install inquier](https://www.npmjs.com/package/inquirer)
+
+- [Install Jest](https://jestjs.io/docs/getting-started)
 
 ### Built with
 <img src= "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
